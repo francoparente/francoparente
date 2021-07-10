@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Functional Analyst.
+- 🔭 I’m currently working as a Functional Analyst at Émerix.
 - 🌱 I’m currently in my third year of studying Information Systems Engineering
 - 📫 How to reach me: fparente14@gmail.com
 - 😄 Pronouns: He/Him
