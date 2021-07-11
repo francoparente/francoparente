@@ -12,7 +12,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 Vibing to:
 
+[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
+[![Spotify](https://spotify-now-playing-francoparente.vercel.app/.vercel.app/api/spotify)](https://open.spotify.com/user/fparente14)
 
 <!--
 
