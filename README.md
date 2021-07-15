@@ -43,8 +43,6 @@ src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
 <br>
 <br>
 
----
-
 <!--
 
 [![Spotify](https://spotify-now-playing-francoparente.vercel.app/api/spotify)](https://open.spotify.com/user/fparente14)
