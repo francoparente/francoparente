@@ -5,8 +5,36 @@
 - 📫 How to reach me: fparente14@gmail.com
 - 😄 Pronouns: He/Him
 
+### How to reach me:
+<img align="left" alt="Gmail" width="20px"
+src="https://simpleicons.org/icons/gmail.svg" /> fparente14@gmail.com
+
+<img align="left" alt="Gmail" width="20px"
+src="https://simpleicons.org/icons/linkedin.svg" /> https://www.linkedin.com/in/franco-parente/
+
+<img align="left" alt="Gmail" width="20px"
+src="https://simpleicons.org/icons/googlechrome.svg" /> Work in progress...
+
+
+---
+### I'm familiar with:
+
 <img align="left" alt="Haskell" width="50px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />
+src="https://simpleicons.org/icons/haskell.svg" />
+
+<img align="left" alt="C++" width="50px"
+src="https://simpleicons.org/icons/cplusplus.svg" />
+
+<img align="left" alt="C" width="50px"
+src="https://simpleicons.org/icons/c.svg" />
+
+<img align="left" alt="SQL Server" width="50px"
+src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
+
+<br>
+<br>
+
+---
 
 <!--
 
