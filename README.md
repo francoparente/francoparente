@@ -10,11 +10,15 @@
 [<img align="left" alt="Gmail" width="30px"
 src="https://simpleicons.org/icons/gmail.svg" />][gmail]
 
-[<img align="left" alt="Gmail" width="30px"
+[<img align="left" alt="Linkedin" width="30px"
 src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="Gmail" width="30px"
+[<img align="left" alt="Chrome" width="30px"
 src="https://simpleicons.org/icons/googlechrome.svg" />][web]
+
+[<img align="left" alt="Spotify" width="30px"
+src="https://simpleicons.org/icons/spotify.svg" />][spotify]
+
 <br>
 <br>
 Personal webpage in progress...
@@ -89,3 +93,4 @@ Here are some ideas to get you started:
 [gmail]: mailto:fparente14@gmail.com?subject=Hi!%20I%20saw%20your%20GitHub%20profile!&body=Hello,%20I'm%20contacting%20you%20beacuse...
 [linkedin]: https://www.linkedin.com/in/franco-parente/
 [web]: nothing
+[spotify]: https://open.spotify.com/user/fparente14?si=24cd584ccdde424f
