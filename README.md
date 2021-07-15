@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Functional Analyst at Émerix.
+- 💼 I’m currently working as a Functional Analyst at Émerix.
 - 🌱 I’m currently in my third year of studying Information Systems Engineering
-- 📫 How to reach me: fparente14@gmail.com
 - 😄 Pronouns: He/Him
 
 ### How to reach me:
@@ -14,7 +13,8 @@ src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" alt="Gmail" width="30px"
 src="https://simpleicons.org/icons/googlechrome.svg" />][web]
-
+<br>
+<br>
 Personal webpage in progress...
 
 
@@ -34,19 +34,8 @@ src="https://simpleicons.org/icons/c.svg" />
 <img align="left" alt="SQL Server" width="50px"
 src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
 
-<img align="left" alt="SQL Server" width="50px"
-src="https://github.com/francoparente/francoparente/files/6825865/microsoftsqlserver.pdf" />
-
 <br>
 <br>
-
-[![microsoftsqlserver.pdf](https://github.com/francoparente/francoparente/files/6825865/microsoftsqlserver.pdf)]
-[![c.pdf](https://github.com/francoparente/francoparente/files/6825866/c.pdf)]
-[![cplusplus.pdf](https://github.com/francoparente/francoparente/files/6825867/cplusplus.pdf)]
-[![gmail.pdf](https://github.com/francoparente/francoparente/files/6825868/gmail.pdf)][gmail]
-[![googlechrome.pdf](https://github.com/francoparente/francoparente/files/6825869/googlechrome.pdf)]
-[![haskell.pdf](https://github.com/francoparente/francoparente/files/6825870/haskell.pdf)]
-[![linkedin.pdf](https://github.com/francoparente/francoparente/files/6825871/linkedin.pdf)][linkedin]
 
 ---
 
@@ -81,16 +70,18 @@ src="https://github.com/francoparente/francoparente/files/6825865/microsoftsqlse
 
 Here are some ideas to get you started:
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
-- 💼 ...
-- 🎧
-- 🎬
-- 🎮
-- ❤️
-
+👯 I’m looking to collaborate on ...
+🤔 I’m looking for help with ...
+💬 Ask me about ...
+⚡ Fun fact: ...
+💼 ...
+🎧
+🎬
+🎮
+❤️
+🔭
+🌱
+😄
 -->
 
 [gmail]: mailto:fparente14@gmail.com?subject=Hi!%20I%20saw%20your%20GitHub%20profile!&body=Hello,%20I'm%20contacting%20you%20beacuse...
