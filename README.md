@@ -6,15 +6,17 @@
 - 😄 Pronouns: He/Him
 
 ### How to reach me:
-<img align="left" alt="Gmail" width="20px"
-src="https://simpleicons.org/icons/gmail.svg" /> fparente14@gmail.com
+[<img align="left" alt="Gmail" width="20px"
+src="https://simpleicons.org/icons/gmail.svg" />][gmail]
 
-<img align="left" alt="Gmail" width="20px"
-src="https://simpleicons.org/icons/linkedin.svg" /> https://www.linkedin.com/in/franco-parente/
+[<img align="left" alt="Gmail" width="20px"
+src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 
-<img align="left" alt="Gmail" width="20px"
-src="https://simpleicons.org/icons/googlechrome.svg" /> Work in progress...
+[<img align="left" alt="Gmail" width="20px"
+src="https://simpleicons.org/icons/googlechrome.svg" />][] Work in progress...
 
+[gmail]: mailto:fparente14@gmail.com?subject=Hi!%20I%20saw%20your%20GitHub%20profile!&body=Hello,%20I'm%20contacting%20you%20beacuse...
+[linkedin]: https://www.linkedin.com/in/franco-parente/
 
 ---
 ### I'm familiar with:
