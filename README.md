@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 💼 I’m currently working as a Functional Analyst at Émerix.
-- 🌱 I’m currently in my third year of studying Information Systems Engineering
-- 😄 Pronouns: He/Him
+- 🌱 I’m in my third year of studying Information Systems Engineering
 
 ---
 
@@ -76,6 +75,7 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on ...
 🤔 I’m looking for help with ...
+😄 Pronouns: He/Him
 💬 Ask me about ...
 ⚡ Fun fact: ...
 💼 ...
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 ❤️
 🔭
 🌱
-😄
+
 -->
 
 [gmail]: mailto:fparente14@gmail.com?subject=Hi!%20I%20saw%20your%20GitHub%20profile!&body=Hello,%20I'm%20contacting%20you%20beacuse...
