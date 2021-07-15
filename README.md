@@ -4,6 +4,8 @@
 - 🌱 I’m currently in my third year of studying Information Systems Engineering
 - 😄 Pronouns: He/Him
 
+---
+
 ### How to reach me:
 [<img align="left" alt="Gmail" width="30px"
 src="https://simpleicons.org/icons/gmail.svg" />][gmail]
