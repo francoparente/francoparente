@@ -17,9 +17,7 @@ src="https://simpleicons.org/icons/googlechrome.svg" />][web]
 
 Personal webpage in progress...
 
-[gmail]: mailto:fparente14@gmail.com?subject=Hi!%20I%20saw%20your%20GitHub%20profile!&body=Hello,%20I'm%20contacting%20you%20beacuse...
-[linkedin]: https://www.linkedin.com/in/franco-parente/
-[web]: nothing
+
 
 ---
 ### I'm familiar with:
@@ -36,8 +34,19 @@ src="https://simpleicons.org/icons/c.svg" />
 <img align="left" alt="SQL Server" width="50px"
 src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
 
+<img align="left" alt="SQL Server" width="50px"
+src="https://github.com/francoparente/francoparente/files/6825865/microsoftsqlserver.pdf" />
+
 <br>
 <br>
+
+[![microsoftsqlserver.pdf](https://github.com/francoparente/francoparente/files/6825865/microsoftsqlserver.pdf)]
+[![c.pdf](https://github.com/francoparente/francoparente/files/6825866/c.pdf)]
+[![cplusplus.pdf](https://github.com/francoparente/francoparente/files/6825867/cplusplus.pdf)]
+[![gmail.pdf](https://github.com/francoparente/francoparente/files/6825868/gmail.pdf)][gmail]
+[![googlechrome.pdf](https://github.com/francoparente/francoparente/files/6825869/googlechrome.pdf)]
+[![haskell.pdf](https://github.com/francoparente/francoparente/files/6825870/haskell.pdf)]
+[![linkedin.pdf](https://github.com/francoparente/francoparente/files/6825871/linkedin.pdf)][linkedin]
 
 ---
 
@@ -83,3 +92,7 @@ Here are some ideas to get you started:
 - ❤️
 
 -->
+
+[gmail]: mailto:fparente14@gmail.com?subject=Hi!%20I%20saw%20your%20GitHub%20profile!&body=Hello,%20I'm%20contacting%20you%20beacuse...
+[linkedin]: https://www.linkedin.com/in/franco-parente/
+[web]: nothing
