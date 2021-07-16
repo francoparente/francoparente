@@ -50,13 +50,13 @@ My recent activity:
 <details>
   <summary>:zap: GitHub Stats</summary>
    
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francoparente&show_icons=true&hide=contribs,prs&count_private=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francoparente&show_icons=true&hide=contribs,prs&count_private=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francoparente&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francoparente&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoparente&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoparente&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=francoparente&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=francoparente&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
