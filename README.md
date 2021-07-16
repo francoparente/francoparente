@@ -18,8 +18,8 @@ src="https://simpleicons.org/icons/googlechrome.svg" />][web]
 [<img align="left" alt="Spotify" width="30px"
 src="https://simpleicons.org/icons/spotify.svg" />][spotify]
 
-<br>
-<br>
+<br />
+
 Personal webpage in progress...
 
 
