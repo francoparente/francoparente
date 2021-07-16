@@ -60,7 +60,7 @@ My recent activity:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoparente&layout=compact&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=francoparente&layout=compact&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=francoparente&layout=compact&theme=solarized-dark)](https://wakatime.com/dashboard)
 
 ---
 
