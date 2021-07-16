@@ -47,16 +47,16 @@ src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
 
 My recent activity:
 
+<!--
+SI QUIERO PONER UN BOTÓN DESPLEGABLE USO ESTO:
+
 <details>
-  <summary>:zap: Stats</summary>
-   
-
-
+  <summary>:zap: TÍTULO</summary>
+   ACÁ VA EL CONTENIDO QUE SE DESPLEGARÍA
 </details>
+-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francoparente&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[//]: # ([![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francoparente&repo=ELREPOQUEQUIERAMOSTRAR)](https://github.com/anuraghazra/github-readme-stats))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoparente&layout=compact&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -64,10 +64,17 @@ My recent activity:
 
 ---
 
+<!--
+Check out my repos:
 
+
+([![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francoparente&repo=ELREPOQUEQUIERAMOSTRAR)](https://github.com/anuraghazra/github-readme-stats))
+
+---
+
+-->
 
 <!--
-
 [![Spotify](https://spotify-now-playing-francoparente.vercel.app/api/spotify)](https://open.spotify.com/user/fparente14)
 
 [<img src = "https://spotify-now-playing-francoparente.vercel.app/api/spotify" alt = "Spotify Now Playing" width = "350" />](https://open.spotify.com/user/fparente14)
@@ -90,8 +97,6 @@ My recent activity:
 
 -->
 
-
-
 <!--
 **francoparente/francoparente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -113,6 +118,9 @@ Here are some ideas to get you started:
 -->
 
 [gmail]: mailto:fparente14@gmail.com?subject=Hi!%20I%20saw%20your%20GitHub%20profile!&body=Hello,%20I'm%20contacting%20you%20beacuse...
+
 [linkedin]: https://www.linkedin.com/in/franco-parente/
+
 [web]: nothing
+
 [spotify]: https://open.spotify.com/user/fparente14?si=24cd584ccdde424f
