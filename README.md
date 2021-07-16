@@ -18,7 +18,8 @@ src="https://simpleicons.org/icons/googlechrome.svg" />][web]
 [<img align="left" alt="Spotify" width="30px"
 src="https://simpleicons.org/icons/spotify.svg" />][spotify]
 
-<br />
+<br/>
+<br/>
 
 Personal webpage in progress...
 
@@ -41,6 +42,23 @@ src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
 
 <br>
 <br>
+
+---
+
+My recent activity:
+
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=francoparente&show_icons=true&hide_border=true" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francoparente&show_icons=true&hide=contribs,prs&count_private=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francoparente&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoparente&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=francoparente&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 
