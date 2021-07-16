@@ -56,7 +56,7 @@ My recent activity:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francoparente&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francoparente&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[//]: # ([![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francoparente&repo=ELREPOQUEQUIERAMOSTRAR)](https://github.com/anuraghazra/github-readme-stats))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoparente&layout=compact&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 
