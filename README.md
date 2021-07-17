@@ -48,7 +48,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
 
 
-
 <!--
 <img align="left" alt="Haskell" width="50px"
 src="https://simpleicons.org/icons/haskell.svg" />
@@ -62,9 +61,6 @@ src="https://simpleicons.org/icons/c.svg" />
 <img align="left" alt="SQL Server" width="50px"
 src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
 -->
-
-<br>
-<br>
 
 ---
 
