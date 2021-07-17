@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 💼 I’m currently working as a Functional Analyst at Émerix.
 - 🌱 I’m in my third year of studying Information Systems Engineering
@@ -74,7 +74,7 @@ src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
 <br/>
 ---
 
-# I'm listening to:
+### I'm listening to:
 
 [![Spotify](https://spotify-now-playing-francoparente.vercel.app/api/spotify)](https://open.spotify.com/user/fparente14)
 
