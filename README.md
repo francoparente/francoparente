@@ -97,6 +97,11 @@ SI QUIERO PONER UN BOTÓN DESPLEGABLE USO ESTO:
 # My recent activity:
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/francoparente/francoparente/issues/1) in [francoparente/francoparente](https://github.com/francoparente/francoparente)
+2. ❗️ Reopened issue [#1](https://github.com/francoparente/francoparente/issues/1) in [francoparente/francoparente](https://github.com/francoparente/francoparente)
+3. ❗️ Closed issue [#1](https://github.com/francoparente/francoparente/issues/1) in [francoparente/francoparente](https://github.com/francoparente/francoparente)
+4. ❗️ Opened issue [#1](https://github.com/francoparente/francoparente/issues/1) in [francoparente/francoparente](https://github.com/francoparente/francoparente)
+<!--END_SECTION:activity-->
 
 ---
 
