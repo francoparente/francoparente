@@ -147,7 +147,7 @@ Here are some ideas to get you started:
 
 -->
 
-[gmail]: mailto:fparente14@gmail.com?subject=Hi!%20I%20saw%20your%20GitHub%20profile!&body=Hello,%20I'm%20contacting%20you%20beacuse...
+[gmail]: mailto:fparente14@gmail.com?subject=Hi!%20I%20saw%20your%20GitHub%20profile!&body=Hello,%20I'm%20contacting%20you%20because...
 
 [linkedin]: https://www.linkedin.com/in/franco-parente/
 
