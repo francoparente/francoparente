@@ -95,8 +95,8 @@ SI QUIERO PONER UN BOTÓN DESPLEGABLE USO ESTO:
 ---
 
 # My recent activity:
-<!--START_SECTION:activity-->
 
+<!--START_SECTION:activity-->
 
 ---
 
