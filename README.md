@@ -15,9 +15,6 @@ src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Chrome" width="30px"
 src="https://simpleicons.org/icons/googlechrome.svg" />][web]
 
-[<img align="left" alt="Globe" width="30px"
-src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/globe.svg" />][web]
-
 [<img align="left" alt="Spotify" width="30px"
 src="https://simpleicons.org/icons/spotify.svg" />][spotify]
 
