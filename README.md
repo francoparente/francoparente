@@ -69,7 +69,8 @@ src="https://simpleicons.org/icons/c.svg" />
 <img align="left" alt="SQL Server" width="50px"
 src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
 -->
-
+<br/>
+<br/>
 ---
 
 My stats:
