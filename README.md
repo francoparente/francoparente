@@ -28,17 +28,17 @@ Personal webpage in progress...
 ---
 ### I'm familiar with:
 
-<img align="left" alt="Haskell" width="50px"
-src="https://simpleicons.org/icons/haskell.svg" />
+<code><img align="left" alt="Haskell" width="50px"
+src="https://simpleicons.org/icons/haskell.svg" /></code>
 
-<img align="left" alt="C++" width="50px"
-src="https://simpleicons.org/icons/cplusplus.svg" />
+<code><img align="left" alt="C++" width="50px"
+src="https://simpleicons.org/icons/cplusplus.svg" /></code>
 
-<img align="left" alt="C" width="50px"
-src="https://simpleicons.org/icons/c.svg" />
+<code><img align="left" alt="C" width="50px"
+src="https://simpleicons.org/icons/c.svg" /></code>
 
-<img align="left" alt="SQL Server" width="50px"
-src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
+<code><img align="left" alt="SQL Server" width="50px"
+src="https://simpleicons.org/icons/microsoftsqlserver.svg" /></code>
 
 <br>
 <br>
