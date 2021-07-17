@@ -29,19 +29,19 @@ Personal webpage in progress...
 ### I'm familiar with:
 
 <img align="left" alt="VSC" width="50px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+src="https://unpkg.com/simple-icons@v5/icons/visualstudiocode.svg" />
 
 <img align="left" alt="Git" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/git.svg" />
 
 <img align="left" alt="Github" width="50px"
-src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+src="https://unpkg.com/simple-icons@v5/icons/github.svg" />
 
-<img align="left" alt="Terminal" width="50px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Bash" width="50px"
+src="https://unpkg.com/simple-icons@v5/icons/bash.svg" />
 
 <img align="left" alt="Haskell" width="50px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />
+src="https://unpkg.com/simple-icons@v5/icons/haskell.svg" />
 
 <img align="left" alt="C++" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/cplusplus.svg" />
@@ -50,9 +50,9 @@ src="https://unpkg.com/simple-icons@v5/icons/cplusplus.svg" />
 src="https://unpkg.com/simple-icons@v5/icons/c.svg" />
 
 <img align="left" alt="HTML5" width="50px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+src="https://unpkg.com/simple-icons@v5/icons/html.svg" />
 
-<img align="left" alt="SQL" width="50px"
+<img align="left" alt="SQL Server" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/microsoftsqlserver.svg" />
 
 
