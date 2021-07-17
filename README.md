@@ -7,16 +7,16 @@
 
 ### How to reach me:
 [<img align="left" alt="Gmail" width="30px"
-src="https://simpleicons.org/icons/gmail.svg" />][gmail]
+src="https://unpkg.com/simple-icons@v5/icons/gmail.svg" />][gmail]
 
 [<img align="left" alt="Linkedin" width="30px"
-src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" alt="Chrome" width="30px"
-src="https://simpleicons.org/icons/googlechrome.svg" />][web]
+src="https://unpkg.com/simple-icons@v5/icons/googlechrome.svg" />][web]
 
 [<img align="left" alt="Spotify" width="30px"
-src="https://simpleicons.org/icons/spotify.svg" />][spotify]
+src="https://unpkg.com/simple-icons@v5/icons/spotify.svg" />][spotify]
 
 <br/>
 <br/>
@@ -28,17 +28,28 @@ Personal webpage in progress...
 ---
 ### I'm familiar with:
 
-<code><img align="left" alt="Haskell" width="50px"
-src="https://simpleicons.org/icons/haskell.svg" /></code>
+<code></code>
+<code></code>
+<code></code>
+<code></code>
+<code></code>
+<code></code>
+<code></code>
+<code></code>
 
-<code><img align="left" alt="C++" width="50px"
-src="https://simpleicons.org/icons/cplusplus.svg" /></code>
+<!--
+<img align="left" alt="Haskell" width="50px"
+src="https://simpleicons.org/icons/haskell.svg" />
 
-<code><img align="left" alt="C" width="50px"
-src="https://simpleicons.org/icons/c.svg" /></code>
+<img align="left" alt="C++" width="50px"
+src="https://simpleicons.org/icons/cplusplus.svg" />
 
-<code><img align="left" alt="SQL Server" width="50px"
-src="https://simpleicons.org/icons/microsoftsqlserver.svg" /></code>
+<img align="left" alt="C" width="50px"
+src="https://simpleicons.org/icons/c.svg" />
+
+<img align="left" alt="SQL Server" width="50px"
+src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
+-->
 
 <br>
 <br>
