@@ -38,7 +38,7 @@ src="https://unpkg.com/simple-icons@v5/icons/git.svg" />
 src="https://unpkg.com/simple-icons@v5/icons/github.svg" />
 
 <img align="left" alt="Bash" width="50px"
-src="https://unpkg.com/simple-icons@v5/icons/bash.svg" />
+src="https://unpkg.com/simple-icons@v5/icons/gnubash.svg" />
 
 <img align="left" alt="Haskell" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/haskell.svg" />
@@ -50,7 +50,7 @@ src="https://unpkg.com/simple-icons@v5/icons/cplusplus.svg" />
 src="https://unpkg.com/simple-icons@v5/icons/c.svg" />
 
 <img align="left" alt="HTML5" width="50px"
-src="https://unpkg.com/simple-icons@v5/icons/html.svg" />
+src="https://unpkg.com/simple-icons@v5/icons/html5.svg" />
 
 <img align="left" alt="SQL Server" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/microsoftsqlserver.svg" />
