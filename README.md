@@ -75,7 +75,7 @@ src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
 
 ---
 
-My stats:
+### My stats:
 
 <!--
 SI QUIERO PONER UN BOTÓN DESPLEGABLE USO ESTO:
@@ -104,6 +104,7 @@ Check out my repos:
 -->
 
 <!--
+
 [![Spotify](https://spotify-now-playing-francoparente.vercel.app/api/spotify)](https://open.spotify.com/user/fparente14)
 
 [<img src = "https://spotify-now-playing-francoparente.vercel.app/api/spotify" alt = "Spotify Now Playing" width = "350" />](https://open.spotify.com/user/fparente14)
