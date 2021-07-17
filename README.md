@@ -120,6 +120,6 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/franco-parente/
 
-[web]: nothing
+[web]: https://francoparente.github.io/
 
 [spotify]: https://open.spotify.com/user/fparente14?si=24cd584ccdde424f
