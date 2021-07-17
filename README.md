@@ -86,11 +86,11 @@ SI QUIERO PONER UN BOTÓN DESPLEGABLE USO ESTO:
 </details>
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoparente&layout=compact&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-francoparente.vercel.app/api/top-langs/?username=francoparente&layout=compact&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francoparente&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-francoparente.vercel.app/api?username=francoparente&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=francoparente&layout=compact&theme=solarized-dark)](https://wakatime.com/dashboard)
+[![willianrod's wakatime stats](https://github-readme-stats-francoparente.vercel.app/api/wakatime?username=francoparente&layout=compact&theme=solarized-dark)](https://wakatime.com/dashboard)
 
 ---
 
