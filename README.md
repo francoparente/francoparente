@@ -55,7 +55,6 @@ src="https://unpkg.com/simple-icons@v5/icons/html5.svg" />
 <img align="left" alt="SQL Server" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/microsoftsqlserver.svg" />
 
-
 <!--
 <img align="left" alt="Haskell" width="50px"
 src="https://simpleicons.org/icons/haskell.svg" />
@@ -70,6 +69,8 @@ src="https://simpleicons.org/icons/c.svg" />
 src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
 -->
 
+<br/>
+<br/>
 <br/>
 <br/>
 
