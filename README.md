@@ -104,7 +104,7 @@ SI QUIERO PONER UN BOTÓN DESPLEGABLE USO ESTO:
 
 ---
 
-# My recent activity:
+### My recent activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/francoparente/francoparente/issues/1) in [francoparente/francoparente](https://github.com/francoparente/francoparente)
