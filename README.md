@@ -52,6 +52,9 @@ src="https://unpkg.com/simple-icons@v5/icons/c.svg" />
 <img align="left" alt="HTML5" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/html5.svg" />
 
+<img align="left" alt="CSS3" width="50px"
+src="https://unpkg.com/simple-icons@v5/icons/css3.svg" />
+
 <img align="left" alt="SQL Server" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/microsoftsqlserver.svg" />
 
