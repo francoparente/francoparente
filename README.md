@@ -12,20 +12,22 @@ src="https://unpkg.com/simple-icons@v5/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Linkedin" width="30px"
 src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="Chrome" width="30px"
-src="https://unpkg.com/simple-icons@v5/icons/googlechrome.svg" />][web]
+[<img align="left" alt="Webpage" width="30px"
+src="https://unpkg.com/simple-icons@v5/icons/googlechrome.svg" />][webpage]
 
 [<img align="left" alt="Spotify" width="30px"
 src="https://unpkg.com/simple-icons@v5/icons/spotify.svg" />][spotify]
+
+[<img align="left" alt="Letterboxd" width="30px"
+src="https://unpkg.com/simple-icons@v5/icons/letterboxd.svg" />][letterboxd]
 
 <br/>
 <br/>
 
 Personal webpage in progress...
 
-
-
 ---
+
 ### I'm familiar with:
 
 <img align="left" alt="VSC" width="50px"
@@ -172,6 +174,8 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/franco-parente/
 
-[web]: https://francoparente.github.io/
+[webpage]: https://francoparente.github.io/
 
 [spotify]: https://open.spotify.com/user/fparente14?si=24cd584ccdde424f
+
+[letterboxd]: https://letterboxd.com/fparente14/
