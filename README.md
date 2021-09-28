@@ -35,6 +35,49 @@ Página web personal en progreso...
 
 Herramientas:
 
+[<img align="left" alt="VSC" width="50px"
+src="https://unpkg.com/simple-icons@v5/icons/visualstudiocode.svg" />][vsc]
+
+[<img align="left" alt="Git" width="50px"
+src="https://unpkg.com/simple-icons@v5/icons/git.svg" />][git]
+
+[<img align="left" alt="Github" width="50px"
+src="https://unpkg.com/simple-icons@v5/icons/github.svg" />][github]
+
+[<img align="left" alt="Bash" width="50px"
+src="https://unpkg.com/simple-icons@v5/icons/gnubash.svg" />][gnubash]
+
+<br/>
+<br/>
+<br/>
+
+Lenguajes:
+
+[<img align="left" alt="Haskell" width="50px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />][haskell]
+
+[<img align="left" alt="C++" width="50px"
+src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />][c++]
+
+[<img align="left" alt="C" width="50px"
+src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][c]
+
+[<img align="left" alt="HTML5" width="50px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
+
+[<img align="left" alt="CSS3" width="50px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
+
+[<img align="left" alt="SQL Server" width="50px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sqlserver]
+
+[<img align="left" alt="Prolog" width="50px"
+src="https://www.swi-prolog.org/icons/swipl.png" />][prolog]
+
+[<img align="left" alt="Wollok" width="50px"
+src="https://avatars.githubusercontent.com/u/16782098?s=200&v=4" />][wollok]
+
+<!--
 <img align="left" alt="VSC" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/visualstudiocode.svg" />
 
@@ -46,12 +89,6 @@ src="https://unpkg.com/simple-icons@v5/icons/github.svg" />
 
 <img align="left" alt="Bash" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/gnubash.svg" />
-
-<br/>
-<br/>
-<br/>
-
-Lenguajes:
 
 <img align="left" alt="Haskell" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/haskell.svg" />
@@ -74,7 +111,6 @@ src="https://unpkg.com/simple-icons@v5/icons/microsoftsqlserver.svg" />
 <img align="left" alt="Wollok" width="50px"
 src="https://avatars.githubusercontent.com/u/16782098?s=200&v=4" />
 
-<!--
 <img align="left" alt="Haskell" width="50px"
 src="https://simpleicons.org/icons/haskell.svg" />
 
@@ -185,11 +221,21 @@ Here are some ideas to get you started:
 -->
 
 [gmail]: mailto:fparente14@gmail.com?subject=Hi!%20I%20saw%20your%20GitHub%20profile!&body=Hello,%20I'm%20contacting%20you%20because...
-
 [linkedin]: https://www.linkedin.com/in/franco-parente/
-
 [webpage]: https://francoparente.github.io/
-
 [spotify]: https://open.spotify.com/user/fparente14?si=24cd584ccdde424f
-
 [letterboxd]: https://letterboxd.com/fparente14/
+
+[vsc]: [https://code.visualstudio.com/]
+[git]: [https://git-scm.com/]
+[github]: [https://github.com/]
+[gnubash]: [https://www.gnu.org/software/bash/]
+
+[haskell]: [https://www.haskell.org/]
+[c++]: [https://www.cplusplus.com/]
+[c]: [https://en.wikipedia.org/wiki/C_(programming_language)]
+[html5]: [https://html.spec.whatwg.org/multipage/]
+[css3]: [https://www.w3.org/Style/CSS/]
+[sqlserver]: [https://es.wikipedia.org/wiki/Microsoft_SQL_Server]
+[prolog]: [https://www.swi-prolog.org/]
+[wollok]: [https://www.wollok.org/]
