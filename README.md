@@ -33,6 +33,8 @@ Página web personal en progreso...
 
 ### Estoy familiarizado con...
 
+Herramientas:
+
 <img align="left" alt="VSC" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/visualstudiocode.svg" />
 
@@ -44,6 +46,12 @@ src="https://unpkg.com/simple-icons@v5/icons/github.svg" />
 
 <img align="left" alt="Bash" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/gnubash.svg" />
+
+<br/>
+<br/>
+<br/>
+
+Lenguajes:
 
 <img align="left" alt="Haskell" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/haskell.svg" />
@@ -62,6 +70,9 @@ src="https://unpkg.com/simple-icons@v5/icons/css3.svg" />
 
 <img align="left" alt="SQL Server" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/microsoftsqlserver.svg" />
+
+<img align="left" alt="Wollok" width="50px"
+src="https://avatars.githubusercontent.com/u/16782098?s=200&v=4" />
 
 <!--
 <img align="left" alt="Haskell" width="50px"
