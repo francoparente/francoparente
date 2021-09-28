@@ -1,11 +1,14 @@
-## Hi there 👋
+## Hola! 👋
 
+- 💼 Actualmente estoy trabajando en Émerix como Analista Técnico Funcional.
+- 🌱 Estoy cursando el tercer año de Ingeniería en Sistemas de Información en la UTN.
+<!--
 - 💼 I’m currently working as a Functional Analyst at Émerix.
-- 🌱 I’m in my third year of studying Information Systems Engineering
-
+- 🌱 I’m in my third year of studying Information Systems Engineering.
+-->
 ---
 
-### How to reach me:
+### Pongámonos en contacto:
 [<img align="left" alt="Gmail" width="30px"
 src="https://unpkg.com/simple-icons@v5/icons/gmail.svg" />][gmail]
 
@@ -24,11 +27,11 @@ src="https://unpkg.com/simple-icons@v5/icons/letterboxd.svg" />][letterboxd]
 <br/>
 <br/>
 
-Personal webpage in progress...
+Página web personal en progreso...
 
 ---
 
-### I'm familiar with:
+### Estoy familiarizado con...
 
 <img align="left" alt="VSC" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/visualstudiocode.svg" />
@@ -81,13 +84,13 @@ src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
 
 ---
 
-### I'm listening to:
+### Un poco de música por acá... 🎧
 
 [![Spotify](https://spotify-now-playing-francoparente.vercel.app/api/spotify)](https://open.spotify.com/user/fparente14)
 
 ---
 
-### My stats:
+### Estadísticas:
 
 <!--
 SI QUIERO PONER UN BOTÓN DESPLEGABLE USO ESTO:
@@ -106,7 +109,7 @@ SI QUIERO PONER UN BOTÓN DESPLEGABLE USO ESTO:
 
 ---
 
-### My recent activity
+### Actividad reciente:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/francoparente/francoparente/issues/1) in [francoparente/francoparente](https://github.com/francoparente/francoparente)
