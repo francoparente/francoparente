@@ -154,18 +154,21 @@ SI QUIERO PONER UN BOTÓN DESPLEGABLE USO ESTO:
 
 [![willianrod's wakatime stats](https://github-readme-stats-francoparente.vercel.app/api/wakatime?username=francoparente&layout=compact&theme=solarized-dark)](https://wakatime.com/dashboard)
 
----
 
+
+<!--
 ### Actividad reciente:
+-->
 
 <!--START_SECTION:activity-->
+<!--
 1. 🗣 Commented on [#1](https://github.com/francoparente/francoparente/issues/1) in [francoparente/francoparente](https://github.com/francoparente/francoparente)
 2. ❗️ Reopened issue [#1](https://github.com/francoparente/francoparente/issues/1) in [francoparente/francoparente](https://github.com/francoparente/francoparente)
 3. ❗️ Closed issue [#1](https://github.com/francoparente/francoparente/issues/1) in [francoparente/francoparente](https://github.com/francoparente/francoparente)
 4. ❗️ Opened issue [#1](https://github.com/francoparente/francoparente/issues/1) in [francoparente/francoparente](https://github.com/francoparente/francoparente)
+-->
 <!--END_SECTION:activity-->
 
----
 
 <!--
 Check out my repos:
