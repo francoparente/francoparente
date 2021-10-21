@@ -2,6 +2,7 @@
 
 - 💼 Actualmente estoy trabajando en Émerix como Analista Técnico Funcional.
 - 🌱 Estoy cursando el tercer año de Ingeniería en Sistemas de Información en la UTN.
+- 💻 Becado en el curso de: Desarrollo Web Fullstack en UTN.
 <!--
 - 💼 I’m currently working as a Functional Analyst at Émerix.
 - 🌱 I’m in my third year of studying Information Systems Engineering.
