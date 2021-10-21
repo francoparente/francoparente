@@ -34,7 +34,7 @@ src="https://unpkg.com/simple-icons@v5/icons/letterboxd.svg" />][letterboxd]
 
 ### Estoy familiarizado con...
 
-Herramientas:
+Tecnologías:
 
 [<img align="left" alt="VSC" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/visualstudiocode.svg" />][vsc]
