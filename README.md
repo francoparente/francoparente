@@ -9,7 +9,7 @@
 -->
 ---
 
-### Pongámonos en contacto:
+### Contacto:
 [<img align="left" alt="Gmail" width="30px"
 src="https://unpkg.com/simple-icons@v5/icons/gmail.svg" />][gmail]
 
