@@ -28,7 +28,7 @@ src="https://unpkg.com/simple-icons@v5/icons/letterboxd.svg" />][letterboxd]
 <br/>
 <br/>
 
-Página web personal en progreso...
+*Página web personal en progreso...*
 
 ---
 
