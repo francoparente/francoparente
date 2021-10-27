@@ -78,6 +78,13 @@ src="https://www.swi-prolog.org/icons/swipl.png" />][prolog]
 [<img align="left" alt="Wollok" width="50px"
 src="https://avatars.githubusercontent.com/u/16782098?s=200&v=4" />][wollok]
 
+[<img align="left" alt="PHP" width="50px"
+src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />][php]
+
+[<img align="left" alt="js" width="50px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+
+
 <!--
 <img align="left" alt="VSC" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/visualstudiocode.svg" />
@@ -243,3 +250,5 @@ Here are some ideas to get you started:
 [sqlserver]: [https://es.wikipedia.org/wiki/Microsoft_SQL_Server]
 [prolog]: [https://www.swi-prolog.org/]
 [wollok]: [https://www.wollok.org/]
+[php]: [https://www.php.net/]
+[js]: [https://developer.mozilla.org/es/docs/Web/JavaScript]
