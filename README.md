@@ -9,7 +9,7 @@
 
 - 💼 I’m currently working as a Functional Analyst at Émerix.
 - 🌱 I’m in my third year of studying Information Systems Engineering.
-- 💻 Scholarship in the course: ** Fullstack Web Development ** at ** UTN **.
+- 💻 Scholarship in the course: **Fullstack Web Development** at **UTN**.
 
 ---
 
