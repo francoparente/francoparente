@@ -1,15 +1,19 @@
 ## Hola! 👋
-
+<!--
 - 💼 Actualmente estoy trabajando en **Émerix** como **Analista Técnico Funcional**.
 - 🌱 Estoy cursando el tercer año de **Ingeniería en Sistemas de Información** en la **UTN**.
 - 💻 Becado en el curso de: **Desarrollo Web Fullstack** en **UTN**.
-<!--
+-->
+
 - 💼 I’m currently working as a Functional Analyst at Émerix.
 - 🌱 I’m in my third year of studying Information Systems Engineering.
--->
+- 💻 Scholarship in the course: ** Fullstack Web Development ** at ** UTN **.
+
 ---
 
-### Contacto:
+<!--### Contacto:-->
+### Contact me:
+
 [<img align="left" alt="Gmail" width="30px"
 src="https://unpkg.com/simple-icons@v5/icons/gmail.svg" />][gmail]
 
@@ -28,13 +32,16 @@ src="https://unpkg.com/simple-icons@v5/icons/letterboxd.svg" />][letterboxd]
 <br/>
 <br/>
 
-*Página web personal en progreso...*
+<!--*Página web personal en progreso...*-->
+*Personal web page in progress...*
 
 ---
 
-### Estoy familiarizado con...
+<!--### Estoy familiarizado con...-->
+### I'm familiar with...
 
-Tecnologías:
+<!--Tecnologías:-->
+Technologies:
 
 [<img align="left" alt="VSC" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/visualstudiocode.svg" />][vsc]
@@ -52,7 +59,8 @@ src="https://unpkg.com/simple-icons@v5/icons/gnubash.svg" />][gnubash]
 <br/>
 <br/>
 
-Lenguajes:
+<!--Lenguajes:-->
+Languages:
 
 [<img align="left" alt="Haskell" width="50px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />][haskell]
@@ -139,13 +147,15 @@ src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
 
 ---
 
-### Un poco de música por acá... 🎧
+<!-- ### Un poco de música por acá... 🎧 -->
+### A little bit of music over here... 🎧
 
 [![Spotify](https://spotify-now-playing-francoparente.vercel.app/api/spotify)](https://open.spotify.com/user/fparente14)
 
 ---
 
-### Estadísticas:
+<!-- ### Estadísticas: -->
+### Stats:
 
 <!--
 SI QUIERO PONER UN BOTÓN DESPLEGABLE USO ESTO:
