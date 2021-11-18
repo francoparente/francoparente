@@ -7,8 +7,8 @@
 - 💻 Becado en el curso de: **Desarrollo Web Fullstack** en **UTN**.
 -->
 
-- 💼 I’m currently working as a Functional Analyst at Émerix.
-- 🌱 I’m in my third year of studying Information Systems Engineering.
+- 💼 I’m currently working as a **Functional Analyst** at **Émerix**.
+- 🌱 I’m in my third year of studying **Information Systems Engineering**.
 - 💻 Scholarship in the course: **Fullstack Web Development** at **UTN**.
 
 ---
