@@ -1,4 +1,6 @@
-## Hola! 👋
+<!-- ## Hola! 👋 -->
+## Hi! 👋
+
 <!--
 - 💼 Actualmente estoy trabajando en **Émerix** como **Analista Técnico Funcional**.
 - 🌱 Estoy cursando el tercer año de **Ingeniería en Sistemas de Información** en la **UTN**.
