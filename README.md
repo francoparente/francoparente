@@ -2,14 +2,12 @@
 ## Hi! 👋
 
 <!--
-- 💼 Actualmente estoy trabajando en **Émerix** como **Analista Técnico Funcional**.
+- 💼 Actualmente estoy trabajando en **ExxonMobil** como **Software Developer**.
 - 🌱 Estoy cursando el tercer año de **Ingeniería en Sistemas de Información** en la **UTN**.
-- 💻 Becado en el curso de: **Desarrollo Web Fullstack** en **UTN**.
 -->
 
-- 💼 I’m currently working as a **Functional Analyst** at **Émerix**.
+- 💼 I’m currently working as a **Software Developer** at **ExxonMobil**.
 - 🌱 I’m in my third year of studying **Information Systems Engineering**.
-- 💻 Scholarship in the course: **Fullstack Web Development** at **UTN**.
 
 ---
 
