@@ -2,11 +2,11 @@
 ## Hi! 👋
 
 <!--
-- 💼 Actualmente estoy trabajando en **ExxonMobil** como **Software Developer**.
+- 💼 Actualmente estoy haciendo una pasantía en **ExxonMobil** como **Software Developer**.
 - 🌱 Estoy cursando el tercer año de **Ingeniería en Sistemas de Información** en la **UTN**.
 -->
 
-- 💼 I’m currently working as a **Software Developer** at **ExxonMobil**.
+- 💼 I’m currently doing an intenrship as a **Software Developer** at **ExxonMobil**.
 - 🌱 I’m in my third year of studying **Information Systems Engineering**.
 
 ---
