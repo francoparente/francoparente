@@ -2,11 +2,11 @@
 ## Hi! 👋
 
 <!--
-- 💼 Actualmente estoy haciendo una pasantía en **ExxonMobil** como **Software Developer**.
+- 💼 Actualmente estoy haciendo una pasantía en **JPMC** como **Software Developer**.
 - 🌱 Estoy cursando el tercer año de **Ingeniería en Sistemas de Información** en la **UTN**.
 -->
 
-- 💼 I’m currently doing an internship as a **Software Developer** at **ExxonMobil**.
+- 💼 I’m currently doing an internship <!--as a **Software Developer** -->at **J.P. Morgan Chase**.
 - 🌱 I’m in my third year of studying **Information Systems Engineering**.
 
 ---
