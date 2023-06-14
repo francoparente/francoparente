@@ -72,7 +72,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notex
 src="https://www.oracle.com/img/tech/java-logo-v1.svg" />][java]
 
 [<img align="left" alt="SQL Server" width="50px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sqlserver]
+src="https://upload.wikimedia.org/wikipedia/commons/6/69/Microsoft_SQL_Server_Logo.png" />][sqlserver]
 
 [<img align="left" alt="js" width="50px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
