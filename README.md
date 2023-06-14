@@ -44,20 +44,21 @@ src="https://unpkg.com/simple-icons@v5/icons/letterboxd.svg" />][letterboxd]
 Technologies:
 
 [<img align="left" alt="VSC" width="50px"
-src="https://unpkg.com/simple-icons@v5/icons/visualstudiocode.svg" />][vsc]
+src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" />][vsc]
 
 [<img align="left" alt="IntelliJIdea" width="50px"
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016" />][intellijidea]
 
 [<img align="left" alt="Git" width="50px"
-src="https://unpkg.com/simple-icons@v5/icons/git.svg" />][git]
+src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
 
+<!--
 [<img align="left" alt="Github" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/github.svg" />][github]
 
 [<img align="left" alt="Bash" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/gnubash.svg" />][gnubash]
-
+-->
 <br/>
 <br/>
 <br/>
