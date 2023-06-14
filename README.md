@@ -47,7 +47,7 @@ Technologies:
 src="https://unpkg.com/simple-icons@v5/icons/visualstudiocode.svg" />][vsc]
 
 [<img align="left" alt="IntelliJIdea" width="50px"
-src="https://unpkg.com/simple-icons@v5/icons/intellijidea.svg" />][intellijidea]
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016" />][intellijidea]
 
 [<img align="left" alt="Git" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/git.svg" />][git]
