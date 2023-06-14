@@ -66,7 +66,7 @@ src="https://unpkg.com/simple-icons@v5/icons/gnubash.svg" />][gnubash]
 Languages:
 
 [<img align="left" alt="Python" width="50px"
-src="https://www.python.org/static/img/python-logo.png" />][python]
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" />][python]
 
 [<img align="left" alt="Java" width="50px"
 src="https://www.oracle.com/img/tech/java-logo-v1.svg" />][java]
