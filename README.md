@@ -66,10 +66,10 @@ src="https://unpkg.com/simple-icons@v5/icons/gnubash.svg" />][gnubash]
 Languages:
 
 [<img align="left" alt="Python" width="50px"
-src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png](https://avatars.githubusercontent.com/u/1525981?s=200&v=4)" />][sqlserver]
+src="https://www.python.org/static/img/python-logo.png" />][python]
 
 [<img align="left" alt="Java" width="50px"
-src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png](https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png)" />][sqlserver]
+src="https://www.oracle.com/img/tech/java-logo-v1.svg" />][java]
 
 [<img align="left" alt="SQL Server" width="50px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sqlserver]
@@ -272,3 +272,5 @@ Here are some ideas to get you started:
 [wollok]: [https://www.wollok.org/]
 [php]: [https://www.php.net/]
 [js]: [https://developer.mozilla.org/es/docs/Web/JavaScript]
+[java]: [https://www.oracle.com/java/technologies/java-se-glance.html]
+[python]: [https://www.python.org/]
