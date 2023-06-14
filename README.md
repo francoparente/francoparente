@@ -65,14 +65,17 @@ src="https://unpkg.com/simple-icons@v5/icons/gnubash.svg" />][gnubash]
 <!--Lenguajes:-->
 Languages:
 
-[<img align="left" alt="Haskell" width="50px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />][haskell]
+[<img align="left" alt="Python" width="50px"
+src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png](https://avatars.githubusercontent.com/u/1525981?s=200&v=4)" />][sqlserver]
 
-[<img align="left" alt="C++" width="50px"
-src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />][c++]
+[<img align="left" alt="Java" width="50px"
+src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png](https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png)" />][sqlserver]
 
-[<img align="left" alt="C" width="50px"
-src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][c]
+[<img align="left" alt="SQL Server" width="50px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sqlserver]
+
+[<img align="left" alt="js" width="50px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 
 [<img align="left" alt="HTML5" width="50px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
@@ -80,9 +83,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [<img align="left" alt="CSS3" width="50px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
 
-[<img align="left" alt="SQL Server" width="50px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sqlserver]
-
+<!--
 [<img align="left" alt="Prolog" width="50px"
 src="https://www.swi-prolog.org/icons/swipl.png" />][prolog]
 
@@ -92,9 +93,15 @@ src="https://avatars.githubusercontent.com/u/16782098?s=200&v=4" />][wollok]
 [<img align="left" alt="PHP" width="50px"
 src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />][php]
 
-[<img align="left" alt="js" width="50px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+[<img align="left" alt="Haskell" width="50px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />][haskell]
 
+[<img align="left" alt="C++" width="50px"
+src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />][c++]
+
+[<img align="left" alt="C" width="50px"
+src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][c]
+-->
 
 <!--
 <img align="left" alt="VSC" width="50px"
