@@ -1,14 +1,17 @@
 <!-- ## Hola! 👋 -->
-## Hi! 👋
+# Hi! 👋
 
 <!--
 - 💼 Actualmente estoy haciendo una pasantía en **JPMC** como **Software Developer**.
 - 🌱 Estoy cursando el tercer año de **Ingeniería en Sistemas de Información** en la **UTN**.
 -->
-<!--
-- 💼 Software Engineer at **J.P Morgan Chase**.
-- 🌱 I’m in my third year of studying **Information Systems Engineering**.
--->
+
+- 💼&nbsp;&nbsp;&nbsp;&nbsp;Software Engineer at **J.P Morgan Chase**.
+- [<img align="left" alt="Python" width="20px"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" />][python]Working with **Python**.
+
+<!--- 🌱 I’m in my third year of studying **Information Systems Engineering**.-->
+
 ---
 
 <!--### Contacto:-->
@@ -38,9 +41,10 @@ src="https://unpkg.com/simple-icons@v5/icons/letterboxd.svg" />][letterboxd]
 ---
 
 <!--### Estoy familiarizado con...-->
-### I'm familiar with...
+<!--### I'm familiar with...-->
 
 <!--Tecnologías:-->
+<!--
 Technologies:
 
 [<img align="left" alt="VSC" width="50px"
@@ -51,7 +55,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Ico
 
 [<img align="left" alt="Git" width="50px"
 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
-
+-->
 <!--
 [<img align="left" alt="Github" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/github.svg" />][github]
@@ -59,11 +63,9 @@ src="https://unpkg.com/simple-icons@v5/icons/github.svg" />][github]
 [<img align="left" alt="Bash" width="50px"
 src="https://unpkg.com/simple-icons@v5/icons/gnubash.svg" />][gnubash]
 -->
-<br/>
-<br/>
-<br/>
 
 <!--Lenguajes:-->
+<!--
 Languages:
 
 [<img align="left" alt="Python" width="50px"
@@ -83,7 +85,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 [<img align="left" alt="CSS3" width="50px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
-
+-->
 <!--
 [<img align="left" alt="Prolog" width="50px"
 src="https://www.swi-prolog.org/icons/swipl.png" />][prolog]
@@ -150,13 +152,6 @@ src="https://simpleicons.org/icons/c.svg" />
 <img align="left" alt="SQL Server" width="50px"
 src="https://simpleicons.org/icons/microsoftsqlserver.svg" />
 -->
-
-<br/>
-<br/>
-<br/>
-<br/>
-
----
 
 <!-- ### Un poco de música por acá... 🎧 -->
 ### A little bit of music over here... 🎧
